@@ -11,5 +11,5 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>Uber</artifactId>
+    <artifactId>SnakeLadder</artifactId>
 </project>
