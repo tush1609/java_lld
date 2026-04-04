@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>Kafka</module>
         <module>SnakeLadder</module>
         <module>Uber</module>
     </modules>

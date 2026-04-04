@@ -1,0 +1,13 @@
+org/example/Main.class
+org/example/Manager.class
+org/example/Message.class
+org/example/GroupAssignStrategy/Sequential.class
+org/example/Consumer/ConsumerManager.class
+org/example/Consumer/Consumer.class
+org/example/Producer/ProducerManager.class
+org/example/GroupAssignStrategy/IConsumerAssignStrategy.class
+org/example/Producer/Partition.class
+org/example/PartitionStrategy/IPartitionStrategy.class
+org/example/Consumer/ConsumerGroup.class
+org/example/Producer/Topic.class
+org/example/PartitionStrategy/KeyLength.class
