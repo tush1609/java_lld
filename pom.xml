@@ -6,11 +6,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>ParkingLot</artifactId>
+    <artifactId>parent-project</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
+        <module>ClearTrip</module>
         <module>Kafka</module>
         <module>ParkingLot</module>
         <module>SnakeLadder</module>

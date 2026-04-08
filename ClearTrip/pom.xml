@@ -12,6 +12,6 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>Uber</artifactId>
+    <artifactId>ClearTrip</artifactId>
     <packaging>jar</packaging>
 </project>

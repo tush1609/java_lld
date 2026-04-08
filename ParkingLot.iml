@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$/ParkingLot">
       <sourceFolder url="file://$MODULE_DIR$/ParkingLot/src/main/java" isTestSource="false" />
     </content>
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <excludeFolder url="file://$MODULE_DIR$/ParkingLot/.idea" />
+    </content>
   </component>
 </module>
